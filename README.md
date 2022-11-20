@@ -45,7 +45,7 @@ The Value Proposition of using Logicbots for this project are:
 ## Device APIs
 
 * Admin SDK / APIs to interact with the device for setting -
-    - Getting Device status like battery, Linear and angular acceleration etc. 
+    - Machine Timer, getting pwm for UI and other device controlling APIs. 
 ## Devices
 
 * Data to Capture from Devices
