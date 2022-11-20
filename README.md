@@ -103,6 +103,8 @@ Main high level tasks are given below -
 | Second working prototypes                                      | 80%           | 10000  |
 | Software handover + Documentation                              | 100%          | 10000   |
 
+#### *Milestone should be funded in advance.
+
 ## Customer Responsibilities
 * The nature of this engagement dictates that Logicbots receive a frequent and enthusiastic response from the appropriate personnel.
 * A weekly review between the Logicbots and Concord Medisys or his designate will ensure that the expectations of this engagement are met.
