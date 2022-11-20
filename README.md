@@ -51,17 +51,17 @@ The Value Proposition of using Logicbots for this project are:
 * Data to Capture from Devices
 
 ```
-RPI W:        Main component which works as a CPU.  
+RPI W:               Main component which works as a CPU.  
 
-Vaccum regulator:     For maintaining desired amount of suction.
+Vaccum regulator:    For maintaining desired amount of suction.
 
-L298 :      Motor driver for controlling regulator.
+L298 :               Motor driver for controlling regulator.
 
-Power Supply:      12V 5Amp supply.
+Power Supply:        12V 5Amp supply.
 
-LED:        Addressable LEDs which have a total of 16 million colour combination.
+LED:                 Addressable LEDs which have a total of 16 million colour combination.
 
-LCD:        7 inch LCD panel for user interface.
+LCD:                 7 inch LCD panel for user interface.
 ```
 
 
